@@ -1,4 +1,4 @@
-# Greenden---tailwind
+# Greenden interior project
 A modern and stylish interior design website built using HTML and Tailwind CSS. This project showcases elegant UI elements and a responsive layout for an immersive user experience.
 
 🚀 Features
